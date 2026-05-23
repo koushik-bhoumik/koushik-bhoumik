@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Koushik</h1>
 
-<!--
-**koushik-bhoumik/koushik-bhoumik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+CSE Student at AIUB <br>
+Aspiring Software Engineer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- Bachelor of Computer Science & Engineering - American International University Bangladesh
+
+## 💻 Skills
+- C++
+- Java
+- Data Structures
+- Problem Solving
+
+## 📫 Connect with me
+[Facebook](https://www.facebook.com/xplorer.koushiik)
+[Instagram](https://www.instagram.com/xplorer.koushiik)
