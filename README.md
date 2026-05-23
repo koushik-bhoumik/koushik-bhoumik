@@ -2,13 +2,12 @@
 
 <p align="center">
 CSE Student at AIUB <br>
-Aspiring Software Engineer
 </p>
 
 ---
 
 ## 🎓 Education
-- Bachelor of Computer Science & Engineering - American International University Bangladesh
+- **Bachelor of Computer Science & Engineering** - American International University Bangladesh
 
 ## 💻 Skills
 - C++
