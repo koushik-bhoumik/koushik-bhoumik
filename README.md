@@ -8,13 +8,3 @@ CSE Student at AIUB <br>
 
 ## 🎓 Education
 - **Bachelor of Computer Science & Engineering** - American International University Bangladesh
-
-## 💻 Skills
-- C++
-- Java
-- Data Structures
-- Problem Solving
-
-## 📫 Connect with me
-[Facebook](https://www.facebook.com/xplorer.koushiik)
-[Instagram](https://www.instagram.com/xplorer.koushiik)
