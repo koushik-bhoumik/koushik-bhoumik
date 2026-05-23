@@ -7,4 +7,4 @@ CSE Student at AIUB <br>
 ---
 
 ## 🎓 Education
-- **Bachelor of Computer Science & Engineering** - American International University Bangladesh
+- **Bachelor of Computer Science & Engineering** - American International University Bangladesh 🇧🇩
